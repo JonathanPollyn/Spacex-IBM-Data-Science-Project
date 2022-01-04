@@ -10,5 +10,6 @@ Jonathan Pollyn
 05 - jupyter-labs-eda-dataviz.ipynb
 06 - lab_jupyter_launch_site_location.ipynb
 07 - SpaceX_Machine Learning Prediction_Part_5.ipynb
+Final Presentation.pdf
 # Programming Language
 Python is the language used for this project. Some of the code was written in IBM Watson studio, especially the jupyter-labs-eda-sql-coursera.ipynb, which is due to the database not being accessed from y local machine.
